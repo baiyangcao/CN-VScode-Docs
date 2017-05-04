@@ -10,7 +10,7 @@ Visual Studio Code 是微软推出的跨平台编辑器。它采用经典的VS�
 
 ## 翻译流程
 
-###第一阶段
+### 第一阶段
 
 先将 [Visual Studio Code Docs](https://code.visualstudio.com/docs) 的内容按现有的目录结构翻译成中文，其中：
 
@@ -18,14 +18,14 @@ Visual Studio Code 是微软推出的跨平台编辑器。它采用经典的VS�
 - 文章中所用到的图片资源暂时先放在 `images`目录下,后续图片资源会统一托管到[七牛云存储](http://www.qiniu.com/)
 - 图片按照文档的 `主目录-副目录-编号`的格式命名。
 
-####文件命名规则
+#### 文件命名规则
 
 - 文件名为[Visual Studio Code Docs](https://code.visualstudio.com/docs) 对应文章标题（即下面列出的目录）的`翻译名称（原英文名）`。所有的空格都用 `-` 代替，`注意单词首字母大写。`
 - 对于下级子页面文档，将其放在以父级文档名称命名的文件夹下面。
 
 例如：`https://code.visualstudio.com/docs/editor/whyvscode` 这篇文档，对应 `editor` 这个文件夹下的 `WhyVsCode.md` 文件。
 
-###第二阶段
+### 第二阶段
 
 根据翻译文档，制作成类似在线手册或者与官方文档类似的网站，方便大家参阅。
 
@@ -124,9 +124,9 @@ Visual Studio Code 是微软推出的跨平台编辑器。它采用经典的VS�
   * [API Debugging](https://code.visualstudio.com/docs/extensionAPI/api-debugging)
 
 * TOOLS
-  * [Publishing Tool](https://code.visualstudio.com/docs/tools/vscecli)
-  * [Extension Generator](https://code.visualstudio.com/docs/tools/yocode)
-  * [Samples](https://code.visualstudio.com/docs/tools/samples)
+  * ~~[Publishing Tool](https://code.visualstudio.com/docs/tools/vscecli)~~
+  * ~~[Extension Generator](https://code.visualstudio.com/docs/tools/yocode)~~
+  * ~~[Samples](https://code.visualstudio.com/docs/tools/samples)~~
 
 （翻译完成的，请使用删除线将对应划去,像下面这样）
 
@@ -149,6 +149,7 @@ Visual Studio Code 是微软推出的跨平台编辑器。它采用经典的VS�
 - [Albert C.](https://github.com/ccssooll999)
 - [Saier](https://github.com/279838089)
 - [iskcal](https://github.com/iskcal)
+- [No.20](https://github.com/zdt3476)
 
 
 （Fork 之后自行添加到最后）
